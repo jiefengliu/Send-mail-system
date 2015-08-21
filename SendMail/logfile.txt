@@ -1,0 +1,21 @@
+﻿向 chenming  发送成功     chenming@yulintu.com    Tue Jun 16 18:41:48 2015
+向 liusan  发送成功     liuxiaobing@yulintu.com    Tue Jun 16 18:41:49 2015
+向 liuxiaob  发送成功     1159267293@qq.com    Tue Jun 16 18:41:50 2015
+(501, 'Error: malformed authentication response')  所以向chenming   发送失败      tianjing@yulintu.com    Wed Jun 17 09:46:50 2015
+(501, 'Error: malformed authentication response')  所以向liusan   发送失败      liuxiaobing@yulintu.com    Wed Jun 17 09:46:50 2015
+(501, 'Error: malformed authentication response')  所以向liuxiaob   发送失败      1159267293@qq.com    Wed Jun 17 09:46:50 2015
+(501, 'Error: malformed authentication response')  所以向chenming   发送失败      tianjing@yulintu.com    Wed Jun 17 09:47:53 2015
+(501, 'Error: malformed authentication response')  所以向liusan   发送失败      liuxiaobing@yulintu.com    Wed Jun 17 09:47:53 2015
+(501, 'Error: malformed authentication response')  所以向liuxiaob   发送失败      1159267293@qq.com    Wed Jun 17 09:47:53 2015
+(501, 'Error: malformed authentication response')  所以向chenming   发送失败      tianjing@yulintu.com    Wed Jun 17 09:49:07 2015
+(501, 'Error: malformed authentication response')  所以向liusan   发送失败      liuxiaobing@yulintu.com    Wed Jun 17 09:49:07 2015
+(501, 'Error: malformed authentication response')  所以向liuxiaob   发送失败      1159267293@qq.com    Wed Jun 17 09:49:07 2015
+向 chenming  发送成功     tianjing@yulintu.com    Wed Jun 17 09:57:52 2015
+向 liusan  发送成功     liuxiaobing@yulintu.com    Wed Jun 17 09:57:54 2015
+向 liuxiaob  发送成功     1159267293@qq.com    Wed Jun 17 09:57:57 2015
+向 chenming  发送成功     liuxiaobing@yulintu.com    Wed Jun 17 09:59:41 2015
+向 liusan  发送成功     liuxiaobing@yulintu.com    Wed Jun 17 09:59:43 2015
+向 liuxiaob  发送成功     1159267293@qq.com    Wed Jun 17 09:59:44 2015
+向 chenming  发送成功     liuxiaobing@yulintu.com    Wed Jun 17 10:56:26 2015
+向 liusan  发送成功     liuxiaobing@yulintu.com    Wed Jun 17 10:56:27 2015
+向 liuxiaob  发送成功     1159267293@qq.com    Wed Jun 17 10:56:28 2015
